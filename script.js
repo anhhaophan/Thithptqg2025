@@ -1,5 +1,5 @@
 // Đếm ngược đến ngày thi THPT
-const EXAM_DATE = new Date('June 26, 2025 00:00:00').getTime();
+const EXAM_DATE = new Date('June 26, 2026 00:00:00').getTime();
 const wishBtn = document.getElementById('wishBtn');
 let countdownInterval;
 
